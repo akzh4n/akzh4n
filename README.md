@@ -26,7 +26,8 @@
 
 
 ## *connect with me*
-[![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=6960EC)](https://t.me/akzh4n)
+[![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=0096FF)](https://t.me/akzh4n)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0C090A?style=for-the-badge&logo=Linkedin&logoColor=6960EC)](https://www.linkedin.com/in/akzhankalimatov/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/akzh4n/)
 [![Mail](https://img.shields.io/badge/-Mail-0C090A?style=for-the-badge&logo=Gmail&logoColor=)](mailto:akzhan.kaz2003@gmail.com)
 
