@@ -1,16 +1,77 @@
-### Hi there 👋
 
-<!--
-**akzh4n/akzh4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ***<h1 align="center">welcome :owl:</h1>***
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="70%" height="auto" src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-3.gif" height="175px"/>
+</p>
+
+
+
+&nbsp;
+
+## ***about me :church:***
+
+***hey, i`m - akzh4n (akzhan) :leaves:***
+
+***young developer from kz***
+
+***beginner software engineer***
+
+***addicted to sweets and love***
+
+***fell in love with physics and astronomy***
+
+&nbsp;
+
+
+## *connect with me*
+[![Telegram](https://img.shields.io/badge/-Telegram-0C090A?style=for-the-badge&logo=Telegram&logoColor=6960EC)](https://t.me/akzh4n)
+[![Instagram](https://img.shields.io/badge/-Instagram-0C090A?style=for-the-badge&logo=Instagram&logoColor=9D00FF)](https://www.instagram.com/akzh4n/)
+[![Mail](https://img.shields.io/badge/-Mail-0C090A?style=for-the-badge&logo=Gmail&logoColor=)](mailto:akzhan.kaz2003@gmail.com)
+
+
+&nbsp;
+
+
+
+
+
+
+## *languages and tools*
+![iOS](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=iOS)
+![Android](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=Android&logoColor=12AD2B)
+![Firebase](https://img.shields.io/badge/-Firebase-0C090A?style=for-the-badge&logo=Firebase&logoColor=FFA500)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0C090A?style=for-the-badge&logo=Kotlin&logoColor=7F52FF)
+![Swift](https://img.shields.io/badge/-Swift-0C090A?style=for-the-badge&logo=Swift&logoColor=FF4500)
+![C++](https://img.shields.io/badge/-C++-0C090A?style=for-the-badge&logo=cplusplus&logoColor=044F88)
+![Python](https://img.shields.io/badge/-Python-0C090A?style=for-the-badge&logo=Python&logoColor=FFE873)
+
+
+
+&nbsp;
+
+![akzh4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=tokyonight)
+
+
+## *repositories to check*
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=schedule_app_iOS&theme=tokyonight)](https://github.com/akzh4n/schedule_app_iOS)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=vemo_project_ios&theme=tokyonight)](https://github.com/akzh4n/vemo_project_ios)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=handmap_ios_app&theme=tokyonight)](https://github.com/akzh4n/handmap_ios_app)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=simpleweather_app&theme=tokyonight)](https://github.com/akzh4n/simpleweather_app)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=FermiApp&theme=tokyonight)](https://github.com/akzh4n/FermiApp)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=notQurieProject&theme=tokyonight)](https://github.com/akzh4n/notQurieProject)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=108psy-zhas-hackathon-android&theme=tokyonight)](https://github.com/akzh4n/108psy-zhas-hackathon-android)
+
+[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=manste1n&repo=bolekproject&theme=tokyonight)](https://github.com/akzh4n/bolekproject)
+
+
+&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akzh4n&label=Profile%20views&color=0e75b6&style=flat" alt="akzh4n" /> </p>
