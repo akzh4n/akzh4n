@@ -61,13 +61,7 @@
 
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=vemo_project_ios&theme=tokyonight)](https://github.com/akzh4n/vemo_project_ios)
 
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=handmap_ios_app&theme=tokyonight)](https://github.com/akzh4n/handmap_ios_app)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=simpleweather_app&theme=tokyonight)](https://github.com/akzh4n/simpleweather_app)
-
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=FermiApp&theme=tokyonight)](https://github.com/akzh4n/FermiApp)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=notQurieProject&theme=tokyonight)](https://github.com/akzh4n/notQurieProject)
 
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=108psy-zhas-hackathon-android&theme=tokyonight)](https://github.com/akzh4n/108psy-zhas-hackathon-android)
 
