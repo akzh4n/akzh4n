@@ -43,7 +43,7 @@
 ![iOS](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=iOS)
 ![Android](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=Android&logoColor=12AD2B)
 ![Firebase](https://img.shields.io/badge/-Firebase-0C090A?style=for-the-badge&logo=Firebase&logoColor=FFA500)
-![PostgreSQL](https://img.shields.io/badge/-Firebase-0C090A?style=for-the-badge&logo=PostgreSQL&logoColor=FFA500)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0C090A?style=for-the-badge&logo=PostgreSQL&logoColor=6495ED)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0C090A?style=for-the-badge&logo=Kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/-Swift-0C090A?style=for-the-badge&logo=Swift&logoColor=FF4500)
 ![C++](https://img.shields.io/badge/-C++-0C090A?style=for-the-badge&logo=cplusplus&logoColor=044F88)
