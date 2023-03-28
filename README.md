@@ -56,7 +56,7 @@
 
 ![akzh4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=tokyonight)
 
-
+<!-- 
 ## *repositories to check*
 
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=schedule_app_iOS&theme=tokyonight)](https://github.com/akzh4n/schedule_app_iOS)
@@ -68,7 +68,7 @@
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=108psy-zhas-hackathon-android&theme=tokyonight)](https://github.com/akzh4n/108psy-zhas-hackathon-android)
 
 [![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=bolekproject&theme=tokyonight)](https://github.com/akzh4n/bolekproject)
-
+ -->
 
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akzh4n&label=Profile%20views&color=0e75b6&style=flat" alt="akzh4n" /> </p>
