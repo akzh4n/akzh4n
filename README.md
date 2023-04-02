@@ -51,24 +51,13 @@
 ![Python](https://img.shields.io/badge/-Python-0C090A?style=for-the-badge&logo=Python&logoColor=FFE873)
 
 
+## Github STATS :cyclone: !
 
-&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akzh4n&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
+ 
+![Bioneisme's github stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=midnight-purple)
 
-![akzh4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=tokyonight)
-
-<!-- 
-## *repositories to check*
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=schedule_app_iOS&theme=tokyonight)](https://github.com/akzh4n/schedule_app_iOS)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=vemo_project_ios&theme=tokyonight)](https://github.com/akzh4n/vemo_project_ios)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=FermiApp&theme=tokyonight)](https://github.com/akzh4n/FermiApp)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=108psy-zhas-hackathon-android&theme=tokyonight)](https://github.com/akzh4n/108psy-zhas-hackathon-android)
-
-[![repositories to check](https://github-readme-stats.vercel.app/api/pin/?username=akzh4n&repo=bolekproject&theme=tokyonight)](https://github.com/akzh4n/bolekproject)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzh4n&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akzh4n&label=Profile%20views&color=0e75b6&style=flat" alt="akzh4n" /> </p>
