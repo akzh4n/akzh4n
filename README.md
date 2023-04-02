@@ -51,7 +51,7 @@
 ![Python](https://img.shields.io/badge/-Python-0C090A?style=for-the-badge&logo=Python&logoColor=FFE873)
 
 
-## Github STATS :cyclone: !
+## *stats* 🕊️
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akzh4n&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
  
