@@ -55,7 +55,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akzh4n&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" /> 
  
-![Bioneisme's github stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=midnight-purple)
+![akzh4n's github stats](https://github-readme-stats.vercel.app/api?username=akzh4n&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akzh4n&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
