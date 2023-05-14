@@ -20,7 +20,7 @@
 
 ***addicted to sweets and love***
 
-***fell in love with physics and astronomy***
+***in love with physics and astronomy***
 
 &nbsp;
 
