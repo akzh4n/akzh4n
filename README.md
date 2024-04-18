@@ -1,11 +1,7 @@
 
 #### ***<h1 align="center">welcome :owl:</h1>***
 
-//
-<p align="center">
-<img width="70%" height="auto" src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-3.gif" height="175px"/>
-</p>
-//
+
 
 
 
