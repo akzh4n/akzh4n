@@ -35,6 +35,8 @@
 
 
 ## *languages and tools*
+![NodeJS](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=NodeJs)
+
 ![iOS](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=iOS)
 ![Android](https://img.shields.io/badge/-Developing-0C090A?style=for-the-badge&logo=Android&logoColor=12AD2B)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0C090A?style=for-the-badge&logo=MongoDB&logoColor=3A5F0B)
