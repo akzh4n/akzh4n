@@ -40,6 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0C090A?style=for-the-badge&logo=MongoDB&logoColor=3A5F0B)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0C090A?style=for-the-badge&logo=PostgreSQL&logoColor=6495ED)
 ![Firebase](https://img.shields.io/badge/-Firebase-0C090A?style=for-the-badge&logo=Firebase&logoColor=FFA500)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0C090A?style=for-the-badge&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0C090A?style=for-the-badge&logo=Kotlin&logoColor=7F52FF)
 ![Swift](https://img.shields.io/badge/-Swift-0C090A?style=for-the-badge&logo=Swift&logoColor=FF4500)
 ![C++](https://img.shields.io/badge/-C++-0C090A?style=for-the-badge&logo=cplusplus&logoColor=044F88)
